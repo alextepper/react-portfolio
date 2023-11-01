@@ -6,7 +6,10 @@ export default function ExperienceListItem({ project }) {
     <a href={project.link} target="_blank" rel="noopener noreferrer">
       <li className=" hover-list p-3 rounded-4">
         <div className="row">
-          <div className="col-3 text-uppercase fs-6">{project.projectYear}</div>
+          <div className="col-3 text-uppercase fs-6">
+            <p>{project.projectYear}</p>
+            <img src={project.pictures} alt="" className="experienceImg" />
+          </div>
           <div className="col-9">
             <h4>{project.projectTitle}</h4>
 

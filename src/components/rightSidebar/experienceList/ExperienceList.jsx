@@ -16,7 +16,7 @@ export default function ExperienceList() {
         "CloudinaryAI",
         "WebHook",
       ],
-      pictures: ["path/to/image1.jpg", "path/to/image2.jpg"],
+      pictures: "futbook.png",
       link: "https://fut-client.onrender.com",
     },
     {
@@ -25,7 +25,7 @@ export default function ExperienceList() {
       projectDescription:
         "A social network App that allows to develop their fitness using the challenge-achievement approach to maintaining the motivation",
       usedTechs: ["Swift", "Firebase", "Dart", "Flutter"],
-      pictures: ["path/to/image3.jpg", "path/to/image4.jpg"],
+      pictures: "overall.png",
       link: "https://apps.apple.com/us/app/overall-records/id1658488590",
     },
   ];
