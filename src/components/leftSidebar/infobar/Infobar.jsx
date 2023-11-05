@@ -20,6 +20,15 @@ export default function Infobar() {
         <li className="contacts-list">
           <a href="#education">Education</a>
         </li>
+        <li className="contacts-list">
+          <a
+            href="https://drive.google.com/file/d/1jbROBhborM9OVg6smX6iLkOdxV0_vfpf/view?usp=sharing"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            CV
+          </a>
+        </li>
       </ul>
     </div>
   );
