@@ -35,14 +35,18 @@ export default function EducationList() {
       studyTime: "2009-2014",
       courseName: "Moscow University Of Electronics",
       description:
-        "Bachelor's Degree in finances of modern tech companies, using deep mathematical analysis",
+        "Master's Degree in Computer Science, using deep mathematical analysis",
       place: "Moscow",
-      role: "BC at Corporate Finance of Tech Companies",
+      role: "Master Degree in Computer Science",
       techs: [
         "Lineal Algebra",
         "Mathematical Analysis",
         "Math Statistics",
         "Algorithmic Information Theory",
+        "Programming Principles",
+        "Algorithms",
+        "Data Structures",
+        "Calculus",
       ],
     },
   ];
